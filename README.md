@@ -9,8 +9,8 @@
 developブランチを作成．
 
 手順：
-git status
-git checkout -b develop(ブランチ名)
-git add .
-git commit -m "Add .gitignore and update README.md"
-git push -u origin develop
+git status \n
+git checkout -b develop(ブランチ名) \n
+git add . \n
+git commit -m "Add .gitignore and update README.md" \n
+git push -u origin develop \n
