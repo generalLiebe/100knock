@@ -7,3 +7,10 @@
 課題続き(チュートリアル)：
 .gitignoreファイルを追加．
 developブランチを作成．
+
+手順：
+git status
+git checkout -b develop(ブランチ名)
+git add .
+git commit -m "Add .gitignore and update README.md"
+git push -u origin develop
